@@ -1,0 +1,7 @@
+back/_pycache_
+back/migrations
+back/venv
+back/.env
+back/database.db
+
+front/node_modules
